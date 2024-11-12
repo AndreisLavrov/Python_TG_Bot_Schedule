@@ -5,7 +5,7 @@ import os
 from apscheduler.schedulers.background import BackgroundScheduler
 
 # Замените на ваш токен бота
-TOKEN = '7932190127:AAEK-QMVD3lSXnYzOKc6AEC5AzZLrDDMqeU'
+TOKEN = 'YOUR-BOT-TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 # Файл для хранения расписания
